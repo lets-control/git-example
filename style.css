@@ -9,6 +9,12 @@ h1 {
     margin-bottom: 0.6em;
 }
 
+h2 {
+    color: navy;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
 p {
     width: 480px;
     margin: auto;
@@ -21,4 +27,5 @@ p {
     border: 1px solid navy;
     width: fit-content;
     background-color: lightblue;
+    margin-bottom: 2em;
 }
