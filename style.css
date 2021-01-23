@@ -18,3 +18,8 @@ h1 {
     font-weight: bold;
     color: navy;
 }
+
+.mytag:hover {
+    color: white;
+    background-color: navy;
+}
