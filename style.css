@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+.mytag {
+    padding: 5px;
+    margin: auto;
+    border: 1px solid navy;
+    width: fit-content;
+    background-color: lightblue;
+}
