@@ -17,6 +17,14 @@ p {
     padding: 5px;
     margin: auto;
     border: 1px solid navy;
-    width: fit-content;
+    width: 200px;
+    text-align: center;
     background-color: lightblue;
+    font-weight: bold;
+    color: navy;
+}
+
+.mytag:hover {
+    color: white;
+    background-color: navy;
 }
